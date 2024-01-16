@@ -1,1 +1,1 @@
-Set-MpPreference -ExclusionExtension exe; Set-MpPreference -ExclusionExtension dll
+Set-MpPreference -ExclusionExtension dll
